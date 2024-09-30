@@ -1,0 +1,10 @@
+.text{
+    color:$pri-color;
+    &__center {
+        @include align(__center);
+    }
+    &>a {
+        text-decoration: none;
+        color: $pri-color;
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "shyam node & npm basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyam5153/shyam5153.github.io.git"
+  },
+  "keywords": [
+    "node",
+    "NPM",
+    "JS",
+    "SASS"
+  ],
+  "author": "Shyam Raj j",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shyam5153/shyam5153.github.io/issues"
+  },
+  "homepage": "https://github.com/shyam5153/shyam5153.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "sass": "^1.79.3",
+    "sass-embedded": "^1.79.3"
+  }
+}
