@@ -1,0 +1,23 @@
+.header{
+    text-align: center;
+    background-color: grey;
+    padding: 10px;
+}
+.apple{
+    font-size: xx-large;
+    color: white;
+}
+.acer{
+    font-size: xx-large;
+    color: white;
+}
+.asus{
+    font-size: xx-large;
+    color: white;
+}
+.whole{
+    background-color: black;
+}
+.form{
+    color: white;
+}
